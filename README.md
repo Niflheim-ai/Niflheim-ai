@@ -1,6 +1,7 @@
 # 💫 About Me:
 Bachelor of Science in Information Systems Major in ITSM<br>Web Development / Creative Content / Graphic Design / Management
-[![Portfolio](https://andwey-portfolio.vercel.app)]
+
+[Portfolio](https://andwey-portfolio.vercel.app)
 
 
 ## 🌐 Socials:
