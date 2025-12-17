@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bachelor of Science in Information Systems Major in ITSM<br>Web Development / Creative Content / Graphic Design / Management
+Bachelor of Science in Information Systems Major in ITSM<br>Web Development / Creative Content / Graphic Design / Management / n8n Automation
 
 [Portfolio](https://andwey-portfolio.vercel.app)
 
